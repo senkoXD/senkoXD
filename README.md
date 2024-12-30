@@ -28,7 +28,7 @@ Halo! Saya **SenkoXD**. Saya seorang pengembang web dengan pengalaman dalam HTML
 <br>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senkoXD&theme=dracula" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senkoXD&theme=tokyonight" />
 </p>
 
 ------
