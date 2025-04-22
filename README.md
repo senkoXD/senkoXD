@@ -13,7 +13,7 @@ Halo! Saya **Senko**. Saya seorang pengembang web dengan pengalaman dalam HTML, 
 <details open align="center">
 <summary><b>↓ Total Profile Visitors ↓</b></summary>
 <br>
-<a href="https://tiktok.com/@raditzzkamu90"><img alt="Cute Count" src="https://count.getloli.com/get/@NESSTID?theme=rule34"/></a>
+<a href="https://tiktok.com/@raditzzkamu90"><img alt="Cute Count" src="https://count.getloli.com/get/@senkoXD?theme=rule34"/></a>
 </details>
 </div>
 
