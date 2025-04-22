@@ -6,7 +6,7 @@
 
 # Perkenalan
 
-Halo! Saya **SenkoXD**. Saya seorang pengembang web dengan pengalaman dalam HTML, CSS, JavaScript, TypeScript, dan Node.js. Saya juga tertarik dalam pengembangan perangkat lunak dan berbagai teknologi lainnya. Jika Anda ingin terhubung atau memiliki pertanyaan, jangan ragu untuk menghubungi saya!
+Halo! Saya **Senko**. Saya seorang pengembang web dengan pengalaman dalam HTML, CSS, JavaScript, TypeScript, dan Node.js. Saya juga tertarik dalam pengembangan perangkat lunak dan berbagai teknologi lainnya. Jika Anda ingin terhubung atau memiliki pertanyaan, jangan ragu untuk menghubungi saya!
 
 ------
 
