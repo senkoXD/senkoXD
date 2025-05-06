@@ -8,7 +8,6 @@
 </p>
 
 <h1 align="center">Hi, I'm Leon / Senko 🦊</h1>
-<p align="center">Just a fox who codes and vibes 🌌</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
@@ -22,7 +21,7 @@ Saya biasa ngoding pakai:
 
 - 🌐 HTML, CSS, JavaScript, TypeScript
 - ⚙️ Node.js, Express, dan kadang suka ngoprek API
-- 🔧 Juga tertarik dengan DevOps & bot development
+- 🔧 Dan Juga tertarik dengan DevOps & bot development
 
 > *"amboi aslinya pemalas ni orang."*
 
@@ -41,9 +40,6 @@ Saya biasa ngoding pakai:
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senkoXD&theme=tokyonight" />
 </p>
-
-## 👁️‍🗨️ Visitor Counter
-
 <details open align="center">
 <summary><b>↓ Total Profile Visitors ↓</b></summary>
 <br>
