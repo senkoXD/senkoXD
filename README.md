@@ -18,8 +18,11 @@
 
 *Hello everyone!* \
 Introduce my name Morthen (Wife Senkosann :v)\
-I am a student In SMKN (private, iykyk) and you see, I'm also a beginner in Github\
-still learning and exploring the world of open source. so, that's it
+I am a student and you see, I'm also a beginner in Github\
+still learning and exploring the world of open source. so, that's it\
+\
+I love technology, anime, and sometimes I break things just to learn how to fix them again 🤭\
+Oh, and one more thing...
 
 > *I use Arch btw :D*
 
