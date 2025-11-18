@@ -4,10 +4,10 @@
 
 
 <p align="center">
-  <img src="https://files.catbox.moe/tu52k4.jpg" width="1080" style="border-radius: 10px;" />
+  <img src="https://i.pinimg.com/originals/11/f9/fa/11f9fa340945f4b7432c635e40c80887.gif" width="1080" style="border-radius: 10px;" />
 </p>
 
-<h1 align="center">Hi, I'm Leon / Senko 🦊</h1>
+<h1 align="center">Hi, I'm Senko!</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
@@ -16,20 +16,16 @@
 
 ## 🔮 About Me
 
-Halo! Saya **Senko**. Seorang pengembang web & software enthusiast.  
-Saya biasa ngoding pakai:
+*Hello everyone!* \
+Introduce my name Morthen (Wife Senkosann :v)\
+I am a student In SMKN (private, iykyk) and you see, I'm also a beginner in Github\
+still learning and exploring the world of open source. so, that's it
 
-- 🌐 HTML, CSS, JavaScript, TypeScript
-- ⚙️ Node.js, Express, dan kadang suka ngoprek API
-- 🔧 Dan Juga tertarik dengan DevOps & bot development
-
-> *"amboi aslinya pemalas ni orang."*
+> *I use Arch btw :D*
 
 ## 📈 Stats & Skills
 
 <p align="center">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
